@@ -17,14 +17,3 @@ redButton.onclick = () => {ChangeColor(text1, 'red')};
 function ChangeColor(element, color) {
     element.style.color = color;
 }
-
-/* Extra moeilijkheidsgraad opdracht 3:
-
-// selecteer alle tekst elementen (tip: gebruik querySelectorAll)
-const textElements = ?
-
-// loop door alle text-elementen en verander de kleur op basis van de button die is geklikt
-redButton.onclick = () => {
-    
-}
-*/
